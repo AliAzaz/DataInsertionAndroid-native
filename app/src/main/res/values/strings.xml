@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AKU</string>
+    <string name="pick_date">Pick Date</string>
+
+    <string name="que1">انٹرویو کی تاریخ</string>
+    <string name="que1_b">انٹرویو کی وقت</string>
+    <string name="que2">انٹرویو کرنے والے کا نام</string>
+    <string name="que2_b">انٹرویو کرنے والے کا کوڈ نمبر</string>
+    <string name="que3">ٹا وُن/تحصیل کا نام اور کوڈ</string>
+    <string name="que4">یونین کونسل کا نام</string>
+    <string name="que4_b">یونین کونسل کا کوڈ</string>
+    <string name="que5">کلسٹر</string>
+    <string name="que6">گھرانہ نمبر  لسٹنگ شیٹ سے لکھیں</string>
+    <string name="que7">کیادروازے پرِای -پی-آئی کا مخصوص نشان موجود ہے؟</string>
+    <string name="que8">کیا اجازت مل گئی؟</string>
+    <string name="que9">انٹرویو کا نتیجہ</string>
+    <string name="que10">اگر انٹرویو نامکمل ہو تو وجہ بیان کریں</string>
+
+    <string name="attention1">ہدایت: اپنا تعارف کرو ائیں اور اپنے آنے کا مقصد بیان کر  یں۔ انٹر ویو شروع کر نے سے پہلے زبانی اجازت لیں۔
+اگر اجازت نہ ملے تو  انٹرویو   نہ لیں  اور  ہدايات کے مطابق اگلے گھر جائیں۔</string>
+    <string name="attention2">برائے مہربانی سوال نمبر 1.09 اور 1.10 انٹرویو کے اختتام پر پُر کریں۔</string>
+
+    <string name="date">تاریخ</string>
+    <string name="time">وقت</string>
+    <string name="name">نام</string>
+    <string name="code">کوڈ</string>
+
+    <string-array name="que3_array">
+        <item name="baldia">بلدیہ</item>
+        <item name="orangi">اورنگی</item>
+        <item name="site">سائٹ</item>
+        <item name="gadap">گڈاپ</item>
+        <item name="landhi">لانڈھی</item>
+    </string-array>
+
+    <string-array name="que7_array">
+        <item name="yes">ہاں</item>
+        <item name="no">نہیں</item>
+        <item name="noAns">واضح  نہیں</item>
+    </string-array>
+
+    <string-array name="que8_array">
+        <item name="yes">ہاں</item>
+        <item name="no">نہیں</item>
+        <item name="no_one_in_room">گھر بند ہے/اجازت دینے والا موجود نہیں ہیں</item>
+    </string-array>
+
+    <string-array name="que9_array">
+        <item name="complete">مکمل</item>
+        <item name="in_complete">نامکمل</item>
+        <item name="not_fill">سوالنامہ نہیں بھراگیا</item>
+    </string-array>
+
+    <string-array name="que10_array">
+        <item name="neglect_for_interview">انٹرویو کے دوران منع کر دیا</item>
+        <item name="house_locked">گهر بند تھا</item>
+        <item name="person_not_available">بالغ جوابدہندہ موجود نہیں تھا</item>
+        <item name="no_one_is_available">اجازت دینے والا موجود نہیں ہے</item>
+        <item name="other_issue">دیگر(وضاحت کریں)</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
